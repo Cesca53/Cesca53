@@ -82,7 +82,3 @@ I'm open to connecting with other data professionals, collaborating on analytics
 [![GitHub](https://img.shields.io/badge/GitHub-Cesca53-black?style=for-the-badge\&logo=github)](https://github.com/Cesca53)
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](#)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Cesca53-black?style=for-the-badge\&logo=github)](https://github.com/Cesca53)
-
