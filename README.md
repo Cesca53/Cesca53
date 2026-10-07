@@ -36,11 +36,14 @@ Analyzed e-commerce data to understand sales performance, revenue, costs, profit
 
 ### 📦 Product Demand & Inventory Analysis
 
-Built an interactive Power BI dashboard to analyze order demand, revenue, products, categories, warehouse performance, and ordering trends.
+[![Product Demand & Inventory Dashboard](https://raw.githubusercontent.com/Cesca53/product-demand-inventory-analysis/main/Executive-overview.jpg)](https://github.com/Cesca53/product-demand-inventory-analysis)
+
+An interactive Power BI dashboard analyzing **order demand, revenue, products, categories, warehouse performance, and ordering trends** to uncover key business insights.
 
 **Tools:** Power BI · Power Query · DAX
 
-🔗 [View Project](#)
+🔗 **[View Full Project →](https://github.com/Cesca53/product-demand-inventory-analysis)**
+
 
 ---
 
