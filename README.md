@@ -75,6 +75,13 @@ Hands-on experience working with data analysis projects, business-focused analys
 
 ## 🤝 Let's Connect
 
+I'm open to connecting with other data professionals, collaborating on analytics projects, and exploring entry-level data analyst opportunities.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/adaeze-ejikeme-7433b1267/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Cesca53-black?style=for-the-badge\&logo=github)](https://github.com/Cesca53)
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](#)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Cesca53-black?style=for-the-badge\&logo=github)](https://github.com/Cesca53)
