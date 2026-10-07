@@ -1,4 +1,4 @@
-# Hi, I'm Adaeze 👋🏽
+# Hi, I'm Adaeze 
 
 ### Junior Data Analyst | SQL | Power BI | Excel
 
