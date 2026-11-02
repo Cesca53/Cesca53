@@ -1,6 +1,6 @@
 # Hi, I'm Adaeze 
 
-### Junior Data Analyst | SQL | Power BI | Excel
+### Data Analyst | SQL | Power BI | Excel
 
 I’m a Junior Data Analyst passionate about turning raw data into meaningful insights that help businesses understand performance and make better decisions.
 
