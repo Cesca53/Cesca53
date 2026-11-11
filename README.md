@@ -2,9 +2,9 @@
 
 ### Data Analyst | SQL | Power BI | Excel
 
-I’m a Junior Data Analyst passionate about turning raw data into meaningful insights that help businesses understand performance and make better decisions.
+I’m a Data Analyst passionate about turning raw data into meaningful insights that help businesses understand performance and make better decisions.
 
-I work with **SQL, Power BI, Excel, Power Query, and DAX** to clean, analyze, visualize, and communicate data.
+I work with **SQL, Power BI, Excel, Power Query** to clean, analyze, visualize, and communicate data.
 
 Currently gaining hands-on experience as a **Junior Data Analyst at Obiveri Limited**, while building practical analytics projects across e-commerce, profitability, demand, inventory, and other business areas.
 
@@ -14,11 +14,11 @@ Currently gaining hands-on experience as a **Junior Data Analyst at Obiveri Limi
 
 **Data Analysis:** SQL · Excel · Power Query · Data Cleaning · Exploratory Data Analysis
 
-**Business Intelligence:** Power BI · DAX · Data Visualization · Dashboard Development
+**Business Intelligence:** Power BI · Data Visualization · Dashboard Development
 
 **Database:** PostgreSQL
 
-**Other:** GitHub · Business Analysis · Data Storytelling
+**Other:** GitHub · Business Analysis · Grafana
 
 ---
 
@@ -60,7 +60,7 @@ Cleaned and analyzed a large flight dataset and developed an interactive Power B
 ## 💼 Experience
 
 **Junior Data Analyst — Obiveri Limited**
-*March 2026 – Present*
+*August 2025 – Present*
 
 Hands-on experience working with data analysis projects, business-focused analysis, data cleaning, visualization, and dashboard development using SQL, Excel, Power Query, and Power BI.
 
@@ -78,7 +78,7 @@ Hands-on experience working with data analysis projects, business-focused analys
 
 ## 🤝 Let's Connect
 
-I'm open to connecting with other data professionals, collaborating on analytics projects, and exploring entry-level data analyst opportunities.
+I'm open to connecting with other data professionals, collaborating on analytics projects, and exploring data analyst opportunities.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/adaeze-ejikeme-7433b1267/)
 
