@@ -24,13 +24,22 @@ Currently gaining hands-on experience as a **Junior Data Analyst at Obiveri Limi
 
 ## 📊 Featured Projects
 
+### 🏥 CarePoint Hospital Analytics
+
+An end-to-end healthcare analytics project analyzing 50,140 hospital appointment records to uncover insights into appointment trends, booking patterns, payment methods, and hospital operational performance.
+
+**Tools:** PostgreSQL · Power BI · Power Query · DAX
+
+🔗 [View Full Project →](https://github.com/Cesca53/carepoint-hospital-analytics)
+
+
 ### 🛒 E-commerce & Profitability Analysis
 
 Analyzed e-commerce data to understand sales performance, revenue, costs, profitability, product performance, and key business trends.
 
 **Tools:** Power BI · Excel · SQL
 
-🔗 [View Project](#)
+🔗 [View Project](https://github.com/Cesca53/ecommerce-profitability-analysis)
 
 ---
 
@@ -44,16 +53,6 @@ An interactive Power BI dashboard analyzing **order demand, revenue, products, c
 
 🔗 **[View Full Project →](https://github.com/Cesca53/product-demand-inventory-analysis)**
 
-
----
-
-### ✈️ Flight Data Analysis
-
-Cleaned and analyzed a large flight dataset and developed an interactive Power BI dashboard to explore flight and performance trends.
-
-**Tools:** Power BI · Excel · Power Query
-
-🔗 [View Project](#)
 
 ---
 
