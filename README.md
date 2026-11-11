@@ -26,7 +26,7 @@ Currently gaining hands-on experience as a **Junior Data Analyst at Obiveri Limi
 
 ### 🏥 CarePoint Hospital Analytics
 
-An end-to-end healthcare analytics project analyzing 50,140 hospital appointment records to uncover insights into appointment trends, booking patterns, payment methods, and hospital operational performance.
+An end-to-end healthcare analytics project analyzing 50,000 hospital appointment records to uncover insights into appointment trends, booking patterns, payment methods, and hospital operational performance.
 
 **Tools:** PostgreSQL · Power BI · Power Query · DAX
 
