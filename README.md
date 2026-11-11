@@ -39,13 +39,11 @@ Analyzed e-commerce data to understand sales performance, revenue, costs, profit
 
 **Tools:** Power BI · Excel · SQL
 
-🔗 [View Project](https://github.com/Cesca53/ecommerce-profitability-analysis)
+🔗 [View Project →](https://github.com/Cesca53/ecommerce-profitability-analysis)
 
 ---
 
 ### 📦 Product Demand & Inventory Analysis
-
-[![Product Demand & Inventory Dashboard](https://raw.githubusercontent.com/Cesca53/product-demand-inventory-analysis/main/Executive-overview.jpg)](https://github.com/Cesca53/product-demand-inventory-analysis)
 
 An interactive Power BI dashboard analyzing **order demand, revenue, products, categories, warehouse performance, and ordering trends** to uncover key business insights.
 
